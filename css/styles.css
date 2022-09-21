@@ -105,6 +105,12 @@ body {
   border-radius: 6px;
   margin-top: 20px;
   border: none;
+
+  font-size: 10px;
+  font-family: "Montserrat", serif;
+  font-weight: bold;
+  color: #e5fffc;
+
   display: flex;
   align-items: center;
   justify-content: center;
@@ -115,14 +121,6 @@ body {
   width: 12px;
   height: 11.5px;
 }
-
-.add {
-  font-size: 10px;
-  font-family: "Montserrat", serif;
-  font-weight: bold;
-  color: #e5fffc;
-}
-
 
 
 @media (max-width: 750px) {
@@ -164,15 +162,12 @@ body {
   .boton {
     width: 268px;
     height: 40px;
+    font-size: 12px;
   }
 
   .boton img {
     width: 13px;
     height: 13px;
-  }
-
-  .add {
-    font-size: 12px;
   }
 
   .perfume-nombre {
