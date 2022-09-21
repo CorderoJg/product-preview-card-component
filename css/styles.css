@@ -128,7 +128,7 @@ body {
 @media (max-width: 750px) {
   body {
     background: hsl(30, 38%, 92%);
-    width: 375spx;
+    width: 375px;
     height: auto;
   }
 
